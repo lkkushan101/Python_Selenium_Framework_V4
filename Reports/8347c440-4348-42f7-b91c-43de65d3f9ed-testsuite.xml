@@ -1,0 +1,27 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1543671055433" stop="1543671073748">
+  <name>test_TestCase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1543671055433" status="passed" stop="1543671073748">
+      <name>RegistrationTest.test_search_in_python_org</name>
+      <attachments>
+        <attachment source="43ebf060-dcc5-408c-bf73-951e0dc15420-attachment.txt" title="Captured stdout call" type="text/plain"/>
+      </attachments>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="4408-MainThread"/>
+        <label name="host" value="kushan"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps>
+        <step start="1543671055438" status="passed" stop="1543671062510">
+          <name>Launch site</name>
+          <title>Launch site</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
